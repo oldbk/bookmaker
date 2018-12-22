@@ -1,0 +1,16 @@
+.event-preview-block {
+    margin-top: 10px;
+    border: 1px solid #918768;
+    max-width: 335px;
+}
+.event-preview-block .head-block {
+    background-color: #c5bb9d;
+    font-weight: bold;
+    padding: 5px;
+    border-bottom: 1px solid #918768;
+}
+
+.event-preview-block .body-block {
+    background-color: #e3dabc;
+    padding: 4px;
+}

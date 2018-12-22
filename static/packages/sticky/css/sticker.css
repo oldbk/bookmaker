@@ -1,0 +1,15 @@
+.head-sticker-fixed {
+    top:0;
+    position:fixed;
+    width:auto;
+    display:none;
+    border:none;
+}
+
+.fblock-inner {
+    position: relative;
+}
+.fblock {
+    top: 10px;
+    position: fixed;
+}

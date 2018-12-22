@@ -1,0 +1,16 @@
+<th class="text-center">Дата</th>
+<th class="text-center">Событие</th>
+<th class="text-center">Фора</th>
+<th colspan="2">КФ</th>
+<th class="text-center">Т</th>
+<th class="text-center">Б</th>
+<th class="text-center">М</th>
+<th class="text-center">П1</th>
+<th class="text-center">X</th>
+<th class="text-center">П2</th>
+<th class="text-center">1X</th>
+<th class="text-center">12</th>
+<th class="text-center">X2</th>
+<th class="text-center">iТ</th>
+<th class="text-center">Б</th>
+<th class="text-center">М</th>

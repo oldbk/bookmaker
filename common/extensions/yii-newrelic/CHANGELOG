@@ -1,0 +1,17 @@
+yii-newrelic
+============
+
+Version 0.01a
+-------------
+- Initial Release
+
+Version 0.01b
+-------------
+- Improved method of attaching behaviors
+- Updated readme to correspond to new method of attaching behaviors
+- Improved method of checking if the request involves a module
+
+Version 0.02
+-------------
+- Added latest methods up to v4.4 of the New Relic PHP Agent AP
+- Reorganized methods to correspond to the PHP Agent API doc
